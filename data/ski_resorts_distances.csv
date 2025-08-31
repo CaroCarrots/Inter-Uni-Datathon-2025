@@ -1,0 +1,10 @@
+Ski Resort,State,Distance_from_MEL,Distance_from_SYD,Distance_from_CAN,Time_from_MEL,Time_from_SYD,Time_from_CAN,Public Transport
+Falls Creek,VIC,383 km,672 km,462 km,4.83,7.87,5.62,SnowBus
+Mount Buller,VIC,234 km,771 km,561 km,3.25,8.37,6.12,Coach
+Mount Hotham,VIC,373 km,702 km,493 km,4.62,8.07,5.82,SnowBus
+Mount Baw Baw,VIC,176 km,914 km,639 km,2.83,10.83,7.73,Train
+Mount Stirling,VIC,236 km,775 km,566 km,3.72,8.78,6.53,Coach
+Thredbo,NSW,546 km,491 km,213 km,6.67,5.67,2.65,Coach
+Perisher,NSW,607 km,487 km,211 km,7.53,5.67,2.65,Coach
+Charlotte Pass,NSW,616 km,495 km,220 km,7.7,5.8,2.8,Coach
+Selwyn,NSW,537 km,585 km,159 km,6.27,6.83,2.47,Coach
